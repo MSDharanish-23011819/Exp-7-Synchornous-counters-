@@ -53,36 +53,80 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Dharanish M.S
+RegisterNumber:  23011819
 */
 
 
 
 
+# CODE:
 
+## UP COUNTER:
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
+![Code](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/a22a2a4f-e20c-41a1-a725-abb57fe4b5a6)
 
 
 
 
-### TIMING DIGRAMS FOR COUNTER  
+## DOWN COUNTER:
+
+![program](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/8e379a6a-eeed-4623-883a-dab8cc2b4e1d)
+
+
+# RTL LOGIC:
+
+## UP COUNTER:
+
+![RTL](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/47193477-6316-44cd-bdf6-59ce981f05b7)
+
+
+
+
+## DOWN COUNTER:
+
+
+
+![RTL viewer](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/035670f2-f1bf-4534-beb2-e9e65bbe0c52)
 
 
 
 
 
-### TRUTH TABLE 
+
+# TIMING DIGRAMS :
+
+## UP COUNTER:
+
+
+![Output](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/d17511ed-fae2-4822-b3d2-254b88fe5593)
+
+
+
+## DOWN COUNTER:
+
+![Timing diagram](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/a81aadd1-a0a9-417b-bc28-ba1f1f3cfb0e)
+
+
+
+# TRUTH TABLE :
+
+## UP COUNTER:
+
+
+![truth table](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/775052f5-e58b-43d5-8433-a88849939b12)
+
+
+
+## DOWN COUNTER:
+
+
+![truth table](https://github.com/Harevasu/Exp-7-Synchornous-counters-/assets/147985044/75f014f5-6f45-4139-a1e2-7c65077cf061)
 
 
 
 
+# RESULTS :
 
 
-### RESULTS 
+Thus, the 4-bit UP COUNTER and DOWN COUNTER are designed and the truth tables are verified using quartus software.
