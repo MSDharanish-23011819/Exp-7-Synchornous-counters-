@@ -53,7 +53,7 @@ Connect the supply (+5V) to the circuit. Switch ON the main switch. If the outpu
 ### PROGRAM 
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: Dharanish M.S
+Developed by: Dharanish MS
 RegisterNumber:  23011819
 ```
 
