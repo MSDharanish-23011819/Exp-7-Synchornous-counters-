@@ -46,16 +46,16 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+Connect the supply (+5V) to the circuit. Switch ON the main switch. If the output is 1, then the bulb glows.
 
 
 
 ### PROGRAM 
-/*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Dharanish M.S
 RegisterNumber:  23011819
-*/
+```
 
 
 
